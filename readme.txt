@@ -3,4 +3,5 @@ this is a 版本控制系统--git
 哈哈哈哈哈哈
 
 ifconfig:
+哈希算法
 
