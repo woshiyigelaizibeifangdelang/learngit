@@ -10,3 +10,5 @@ ifconfig:
 hhhhkkkkkkkkkkk
 
 为手机哦
+
+我是中国人
